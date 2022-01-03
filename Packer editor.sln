@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Packer editor", "Packer editor\Packer editor.csproj", "{A08232A1-E2A4-4D22-94CB-142AFC2BCB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08232A1-E2A4-4D22-94CB-142AFC2BCB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08232A1-E2A4-4D22-94CB-142AFC2BCB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08232A1-E2A4-4D22-94CB-142AFC2BCB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08232A1-E2A4-4D22-94CB-142AFC2BCB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDE6240-30B7-47EF-9DED-FF6F3CC9A241}
+	EndGlobalSection
+EndGlobal

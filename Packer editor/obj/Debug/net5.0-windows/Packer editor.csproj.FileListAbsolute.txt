@@ -1,0 +1,20 @@
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\Packer editor.exe
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\Packer editor.deps.json
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\Packer editor.runtimeconfig.json
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\Packer editor.runtimeconfig.dev.json
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\Packer editor.dll
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\ref\Packer editor.dll
+C:\Users\wills\source\repos\Packer editor\Packer editor\bin\Debug\net5.0-windows\Packer editor.pdb
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.csproj.AssemblyReference.cache
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer_editor.Form1.resources
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.csproj.GenerateResource.cache
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.AssemblyInfoInputs.cache
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.AssemblyInfo.cs
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.csproj.CoreCompileInputs.cache
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.dll
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\ref\Packer editor.dll
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.pdb
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer editor.genruntimeconfig.cache
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer_editor.Form2.resources
+C:\Users\wills\source\repos\Packer editor\Packer editor\obj\Debug\net5.0-windows\Packer_editor.Form3.resources

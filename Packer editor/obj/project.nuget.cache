@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "efDAxtgJe+Xid4uP+ePkclM5o4orohtvKnPoqypB+ZYzvy7e8MoxfCs25khaAJ2yXVMPv0o38XAt7i5rqLRniw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wills\\source\\repos\\Packer editor\\Packer editor\\Packer editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wills\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
